@@ -1,0 +1,50 @@
+[
+  {
+    "witness": "студентка Гнатюк",
+    "saw_suspect_id": "S04",
+    "room": "Дзеркальна",
+    "hour": 17
+  },
+  {
+    "witness": "водій Юрченко",
+    "saw_suspect_id": "S05",
+    "room": "Жовта",
+    "hour": 13
+  },
+  {
+    "witness": "волонтер Сидір",
+    "saw_suspect_id": "S07",
+    "room": "Бароко",
+    "hour": 18
+  },
+  {
+    "witness": "турист Новак",
+    "saw_suspect_id": "S07",
+    "room": "Бароко",
+    "hour": 19
+  },
+  {
+    "witness": "касирка Олійник",
+    "saw_suspect_id": "S08",
+    "room": "Бароко",
+    "hour": 12
+  },
+  {
+    "witness": "водій Юрченко",
+    "saw_suspect_id": "S09",
+    "room": "Зброярня",
+    "hour": 18
+  },
+  {
+    "witness": "студентка Гнатюк",
+    "saw_suspect_id": "X01",
+    "room": "Вітражна",
+    "hour": 19
+  },
+  {
+    "witness": "турист Новак",
+    "saw_suspect_id": "X02",
+    "room": "Антична",
+    "hour": 17
+  }
+]

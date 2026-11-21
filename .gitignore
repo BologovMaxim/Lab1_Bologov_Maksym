@@ -1,0 +1,12 @@
+# бази, які створює сама робота
+*.db
+*.sqlite3
+
+# службове
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+
+# налаштування IDE
+.idea/
